@@ -2,6 +2,8 @@
 ####### analysis of netlogo abm #######
 #######################################
 
+## I'm sorry this is so messy :-) 
+
 pacman::p_load(tidyverse, RColorBrewer, ggthemes, patchwork)
 
 ## LOADING THE UGLY NETLOGO DATA ##
