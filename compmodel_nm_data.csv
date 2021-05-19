@@ -1,0 +1,19 @@
+turtle_id,color,nr_readers,condition
+0_25,Ekstra Bladet,108,baseline
+1_5,Fake News,25,baseline
+2_45,Berlingske,119,baseline
+3_15,Politiken,174,baseline
+4_105,BT,183,baseline
+5_135,Jyllands-Posten,151,baseline
+1_135,Jyllands-Posten,143,non
+0_105,BT,147,non
+3_25,Ekstra Bladet,106,non
+2_45,Berlingske,120,non
+5_5,Fake News,25,non
+4_15,Politiken,211,non
+2_25,Ekstra Bladet,110,social
+0_15,Politiken,189,social
+3_135,Jyllands-Posten,144,social
+5_105,BT,175,social
+4_45,Berlingske,111,social
+1_5,Fake News,25,social
